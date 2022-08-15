@@ -52,8 +52,8 @@ Como adicional, seria bom que o sistema tivesse documentação com OpenAPI, test
 - [x] Controllers `customer`, `banner`
 - [x] Migrations `customer`, `banner`
 - [x] Seeders `customer`, `banner`
-- [x] Rotas  `/customer`, POST, GET (all, id), PUT, DELETE
-- [x] Rotas  `/banner`, POST, GET (all, id), PUT, DELETE
+- [x] Rota  `/customer`, POST, GET (all, id), PUT, DELETE
+- [x] Rota  `/banner`, POST, GET (all, id), PUT, DELETE
 - [x] Middlewares `customer`, `banner`
 
 <br />
