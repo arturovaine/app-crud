@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "outDir": "./",
+        "sourceMap": false,
+        "declaration": true,
+        // "typeRoots": []
+        "types": ["jest"]
+    },
+    "files": ["./node_modules/@types/node/index.d.ts"],
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules", "jest", "setupTests.ts", "**/*.test.ts"]
+}

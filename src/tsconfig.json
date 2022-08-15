@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node17/tsconfig.json",
+  "compilerOptions": {
+    "target": "es2022",
+    "outDir": "build",
+  },
+
+  "include": ["database/**/*", "app/**/*", "docs/**/*"],
+  "exclude": ["node_modules"]
+}
